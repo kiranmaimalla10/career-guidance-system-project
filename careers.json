@@ -1,0 +1,222 @@
+[
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "industry": "Technology",
+    "description": "Analyzes complex datasets to extract insights and build predictive models that drive business decisions.",
+    "required_skills": ["python", "statistics", "machine learning", "sql", "data visualization"],
+    "interests": ["problem solving", "research", "analytics", "mathematics"],
+    "education_levels": ["bachelors", "masters"],
+    "average_salary_inr": "6-18 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "ml_engineer",
+    "title": "Machine Learning Engineer",
+    "industry": "Technology",
+    "description": "Designs, builds, and deploys machine learning models into production systems.",
+    "required_skills": ["python", "machine learning", "deep learning", "software engineering", "cloud computing"],
+    "interests": ["problem solving", "engineering", "ai", "automation"],
+    "education_levels": ["bachelors", "masters"],
+    "average_salary_inr": "8-22 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "ai_research_scientist",
+    "title": "AI Research Scientist",
+    "industry": "Technology",
+    "description": "Conducts research to advance the state of the art in artificial intelligence and publishes findings.",
+    "required_skills": ["python", "deep learning", "mathematics", "research", "algorithms"],
+    "interests": ["research", "innovation", "mathematics", "ai"],
+    "education_levels": ["masters", "phd"],
+    "average_salary_inr": "10-30 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "software_developer",
+    "title": "Software Developer",
+    "industry": "Technology",
+    "description": "Builds and maintains applications, websites, and software systems.",
+    "required_skills": ["programming", "problem solving", "algorithms", "debugging", "version control"],
+    "interests": ["building things", "logic", "technology", "problem solving"],
+    "education_levels": ["diploma", "bachelors"],
+    "average_salary_inr": "4-14 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "cybersecurity_analyst",
+    "title": "Cybersecurity Analyst",
+    "industry": "Technology",
+    "description": "Protects systems and networks from digital attacks by monitoring, detecting, and responding to threats.",
+    "required_skills": ["networking", "security", "risk analysis", "linux", "problem solving"],
+    "interests": ["security", "investigation", "technology", "protecting systems"],
+    "education_levels": ["bachelors"],
+    "average_salary_inr": "5-16 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "cloud_engineer",
+    "title": "Cloud Engineer",
+    "industry": "Technology",
+    "description": "Designs and manages cloud infrastructure and services for scalable applications.",
+    "required_skills": ["cloud computing", "networking", "linux", "automation", "devops"],
+    "interests": ["infrastructure", "technology", "problem solving", "automation"],
+    "education_levels": ["bachelors"],
+    "average_salary_inr": "6-18 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "business_analyst",
+    "title": "Business Analyst",
+    "industry": "Business",
+    "description": "Bridges business needs and technical solutions by analyzing processes and recommending improvements.",
+    "required_skills": ["data analysis", "communication", "sql", "excel", "critical thinking"],
+    "interests": ["business", "analytics", "problem solving", "communication"],
+    "education_levels": ["bachelors", "mba"],
+    "average_salary_inr": "5-15 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "product_manager",
+    "title": "Product Manager",
+    "industry": "Business",
+    "description": "Leads product strategy and coordinates teams to build products that meet user and business needs.",
+    "required_skills": ["communication", "strategy", "leadership", "market research", "prioritization"],
+    "interests": ["leadership", "strategy", "business", "innovation"],
+    "education_levels": ["bachelors", "mba"],
+    "average_salary_inr": "8-25 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "ux_designer",
+    "title": "UX/UI Designer",
+    "industry": "Design",
+    "description": "Designs intuitive and visually engaging digital experiences based on user research.",
+    "required_skills": ["design", "user research", "prototyping", "creativity", "communication"],
+    "interests": ["design", "creativity", "psychology", "art"],
+    "education_levels": ["diploma", "bachelors"],
+    "average_salary_inr": "4-14 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "digital_marketer",
+    "title": "Digital Marketing Specialist",
+    "industry": "Marketing",
+    "description": "Plans and executes online marketing campaigns across social, search, and content channels.",
+    "required_skills": ["seo", "content creation", "analytics", "social media", "communication"],
+    "interests": ["marketing", "creativity", "communication", "trends"],
+    "education_levels": ["diploma", "bachelors"],
+    "average_salary_inr": "3-10 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "financial_analyst",
+    "title": "Financial Analyst",
+    "industry": "Finance",
+    "description": "Evaluates financial data to guide investment and business decisions.",
+    "required_skills": ["finance", "excel", "data analysis", "statistics", "critical thinking"],
+    "interests": ["finance", "mathematics", "analytics", "economics"],
+    "education_levels": ["bachelors", "mba"],
+    "average_salary_inr": "5-15 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "hr_specialist",
+    "title": "Human Resources Specialist",
+    "industry": "Business",
+    "description": "Manages recruitment, employee relations, and organizational development.",
+    "required_skills": ["communication", "organization", "empathy", "conflict resolution", "recruitment"],
+    "interests": ["people", "communication", "organization", "psychology"],
+    "education_levels": ["bachelors", "mba"],
+    "average_salary_inr": "3-10 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "civil_engineer",
+    "title": "Civil Engineer",
+    "industry": "Engineering",
+    "description": "Designs, builds, and maintains infrastructure such as roads, bridges, and buildings.",
+    "required_skills": ["structural design", "mathematics", "project management", "cad software", "physics"],
+    "interests": ["building things", "engineering", "mathematics", "construction"],
+    "education_levels": ["bachelors"],
+    "average_salary_inr": "4-12 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "mechanical_engineer",
+    "title": "Mechanical Engineer",
+    "industry": "Engineering",
+    "description": "Designs and develops mechanical systems, machines, and manufacturing processes.",
+    "required_skills": ["cad software", "physics", "mathematics", "problem solving", "manufacturing"],
+    "interests": ["engineering", "building things", "mathematics", "machines"],
+    "education_levels": ["bachelors"],
+    "average_salary_inr": "4-12 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "biomedical_researcher",
+    "title": "Biomedical Researcher",
+    "industry": "Healthcare",
+    "description": "Conducts research to advance medical knowledge and develop treatments or technologies.",
+    "required_skills": ["biology", "research", "statistics", "lab techniques", "writing"],
+    "interests": ["biology", "research", "healthcare", "science"],
+    "education_levels": ["masters", "phd"],
+    "average_salary_inr": "5-15 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "content_writer",
+    "title": "Content Writer",
+    "industry": "Media",
+    "description": "Creates written content for websites, blogs, marketing, and media platforms.",
+    "required_skills": ["writing", "research", "creativity", "seo", "communication"],
+    "interests": ["writing", "creativity", "storytelling", "communication"],
+    "education_levels": ["diploma", "bachelors"],
+    "average_salary_inr": "3-8 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "teacher_educator",
+    "title": "Teacher / Educator",
+    "industry": "Education",
+    "description": "Teaches and mentors students, developing curriculum and assessing learning outcomes.",
+    "required_skills": ["communication", "subject expertise", "patience", "curriculum design", "empathy"],
+    "interests": ["teaching", "people", "communication", "mentorship"],
+    "education_levels": ["bachelors", "masters"],
+    "average_salary_inr": "3-9 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "graphic_designer",
+    "title": "Graphic Designer",
+    "industry": "Design",
+    "description": "Creates visual content for branding, advertising, and digital media.",
+    "required_skills": ["design", "creativity", "adobe tools", "typography", "communication"],
+    "interests": ["design", "art", "creativity", "visual storytelling"],
+    "education_levels": ["diploma", "bachelors"],
+    "average_salary_inr": "3-9 LPA",
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "devops_engineer",
+    "title": "DevOps Engineer",
+    "industry": "Technology",
+    "description": "Automates and streamlines software development, testing, and deployment pipelines.",
+    "required_skills": ["cloud computing", "automation", "linux", "ci/cd", "scripting"],
+    "interests": ["automation", "infrastructure", "technology", "problem solving"],
+    "education_levels": ["bachelors"],
+    "average_salary_inr": "6-18 LPA",
+    "growth_outlook": "High"
+  },
+  {
+    "id": "entrepreneur",
+    "title": "Entrepreneur / Startup Founder",
+    "industry": "Business",
+    "description": "Builds and runs a business from the ground up, managing strategy, product, and operations.",
+    "required_skills": ["leadership", "strategy", "communication", "risk management", "adaptability"],
+    "interests": ["business", "leadership", "innovation", "independence"],
+    "education_levels": ["diploma", "bachelors", "masters"],
+    "average_salary_inr": "Variable",
+    "growth_outlook": "Variable"
+  }
+]
